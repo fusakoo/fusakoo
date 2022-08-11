@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Fusako!
 
-- 🥸 I'm a lead for a SecOps team during the day
-- 💻 ... and BSCS student at Oregon State University at night.
-- 🌱 I'm currently learning C, Python, JavaScript, and more
+- 🥸 I'm a team lead of a SecOps team during the day
+- 💻 ... and Post-Bacc BSCS student at Oregon State University at night.
+- 🌱 I'm currently learning C, Python, JavaScript, Dart (Flutter) and more
 
 ### Where to find me
 [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/fusakoo)](https://github.com/fusakoo)
