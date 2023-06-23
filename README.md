@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Fusako!
 
 - 🥸 I'm a team lead of a SecOps team during the day
-- 💻 ... and Post-Bacc BSCS student at Oregon State University at night.
+- 💻 ... and a recent Post-Bacc BSCS graduate from Oregon State University!
 - 🌱 I'm currently learning C, Python, JavaScript, Dart (Flutter) and more
 
 ### Where to find me
